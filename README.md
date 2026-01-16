@@ -5,9 +5,9 @@
 📍 Based in Kuala Lumpur
 
 ### 🛠 Tech Stack
-- Languages: JavaScript, C++
-- Frameworks: Vue, React, Node.js
-- Tools: Git, Docker, Linux
+- Language: Javascript/HTML/CSS, TypeScript, C++, C, SQL, Bash
+- Framework: Node JS, Vue JS, Express JS, Hapi JS, Playwright, Jest
+- Tools:  AWS (S3, Lambda, IAM, DynamoDB, RDS, EC2), Git, Jenkins, Docker, VSCode 
 
 ### 📫 Connect with me
 - LinkedIn: https://my.linkedin.com/in/bengguan-koay 
